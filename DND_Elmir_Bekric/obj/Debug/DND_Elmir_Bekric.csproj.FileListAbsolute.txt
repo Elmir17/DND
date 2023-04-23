@@ -1,0 +1,8 @@
+C:\Users\elmir\source\repos\DND_Elmir_Bekric\obj\Debug\DND_Elmir_Bekric.csproj.AssemblyReference.cache
+C:\Users\elmir\source\repos\DND_Elmir_Bekric\obj\Debug\DND_Elmir_Bekric.csproj.SuggestedBindingRedirects.cache
+C:\Users\elmir\source\repos\DND_Elmir_Bekric\obj\Debug\DND_Elmir_Bekric.csproj.CoreCompileInputs.cache
+C:\Users\elmir\source\repos\DND_Elmir_Bekric\bin\Debug\DND_Elmir_Bekric.exe.config
+C:\Users\elmir\source\repos\DND_Elmir_Bekric\bin\Debug\DND_Elmir_Bekric.exe
+C:\Users\elmir\source\repos\DND_Elmir_Bekric\bin\Debug\DND_Elmir_Bekric.pdb
+C:\Users\elmir\source\repos\DND_Elmir_Bekric\obj\Debug\DND_Elmir_Bekric.exe
+C:\Users\elmir\source\repos\DND_Elmir_Bekric\obj\Debug\DND_Elmir_Bekric.pdb
