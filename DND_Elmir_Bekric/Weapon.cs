@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace DND_Elmir_Bekric
 {
-    internal class Weapon
+    internal class Weapon : Item
     {
-        public ItemType Type { get; set; }
         public int Damage { get; set; }
-        public bool IsLegendary { get; set; }
     }
 }

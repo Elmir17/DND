@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace DND_Elmir_Bekric
 {
-    internal class Armor : Item
+    internal class Item
     {
-        public int Defense { get; set; }
+        public ItemType Type { get; set; }
+        public bool IsLegendary { get; set; }
     }
 }
